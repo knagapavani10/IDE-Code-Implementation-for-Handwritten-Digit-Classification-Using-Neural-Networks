@@ -47,7 +47,7 @@ A **feedforward neural network** with **ReLU** and **Softmax** activation functi
 ```text
 Input Image → Data Preprocessing → Neural Network Training → Model Testing → Digit Prediction → Output Display
 ```
-# Dataset Includes
+# Dataset 
 
 ## Source of Data
 The dataset used in this project is the **MNIST Handwritten Digit Dataset**, which is a standard benchmark dataset for image classification and deep learning projects.
